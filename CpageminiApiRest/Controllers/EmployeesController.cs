@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNet.OData;
+using Microsoft.AspNetCore.JsonPatch;
 using Microsoft.AspNetCore.Mvc;
 
 namespace CpageminiApiRest.Controllers
@@ -18,6 +19,14 @@ namespace CpageminiApiRest.Controllers
         public List<Employee> Get()
         {
             return listEmployees;
+        }
+
+        [HttpGet("{id}")]
+        public Employee Get(int id)
+        {
+            var item = listEmployees.FirstOrDefault(x => x.Id == id);
+
+            return item;
         }
 
         // POST api/values
@@ -50,33 +59,14 @@ namespace CpageminiApiRest.Controllers
         }
 
         [HttpPatch("{id}")]
-        public void Patch(int id, Delta<Employee> employee)
+        public void Patch(int id, [FromBody]Employee employee)
         {
             var item = listEmployees.FirstOrDefault(x => x.Id == id);
 
             if (item != null)
             {
-                employee.Patch(item);
+                item.Name = employee.Name;
             }
         }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        public void Put(int id, [FromBody] string value)
-        {
-        }
-
-       
     }
 }
