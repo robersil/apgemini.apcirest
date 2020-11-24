@@ -1,0 +1,16 @@
+D:\Cursos\Impacta\restapi\CpageminiApiRest\CpageminiApiRest\obj\Debug\netcoreapp2.1\CpageminiApiRest.csprojAssemblyReference.cache
+D:\Cursos\Impacta\restapi\CpageminiApiRest\CpageminiApiRest\obj\Debug\netcoreapp2.1\CpageminiApiRest.RazorAssemblyInfo.cache
+D:\Cursos\Impacta\restapi\CpageminiApiRest\CpageminiApiRest\obj\Debug\netcoreapp2.1\CpageminiApiRest.RazorAssemblyInfo.cs
+D:\Cursos\Impacta\restapi\CpageminiApiRest\CpageminiApiRest\obj\Debug\netcoreapp2.1\CpageminiApiRest.AssemblyInfoInputs.cache
+D:\Cursos\Impacta\restapi\CpageminiApiRest\CpageminiApiRest\obj\Debug\netcoreapp2.1\CpageminiApiRest.AssemblyInfo.cs
+D:\Cursos\Impacta\restapi\CpageminiApiRest\CpageminiApiRest\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\Cursos\Impacta\restapi\CpageminiApiRest\CpageminiApiRest\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Cursos\Impacta\restapi\CpageminiApiRest\CpageminiApiRest\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\Cursos\Impacta\restapi\CpageminiApiRest\CpageminiApiRest\bin\Debug\netcoreapp2.1\CpageminiApiRest.deps.json
+D:\Cursos\Impacta\restapi\CpageminiApiRest\CpageminiApiRest\bin\Debug\netcoreapp2.1\CpageminiApiRest.runtimeconfig.json
+D:\Cursos\Impacta\restapi\CpageminiApiRest\CpageminiApiRest\bin\Debug\netcoreapp2.1\CpageminiApiRest.runtimeconfig.dev.json
+D:\Cursos\Impacta\restapi\CpageminiApiRest\CpageminiApiRest\bin\Debug\netcoreapp2.1\CpageminiApiRest.dll
+D:\Cursos\Impacta\restapi\CpageminiApiRest\CpageminiApiRest\bin\Debug\netcoreapp2.1\CpageminiApiRest.pdb
+D:\Cursos\Impacta\restapi\CpageminiApiRest\CpageminiApiRest\obj\Debug\netcoreapp2.1\CpageminiApiRest.RazorTargetAssemblyInfo.cache
+D:\Cursos\Impacta\restapi\CpageminiApiRest\CpageminiApiRest\obj\Debug\netcoreapp2.1\CpageminiApiRest.dll
+D:\Cursos\Impacta\restapi\CpageminiApiRest\CpageminiApiRest\obj\Debug\netcoreapp2.1\CpageminiApiRest.pdb
